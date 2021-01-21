@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi , its nebby n friends
+
+its about daily life of a dog called nebby and stories of friend.
 <!--
 **nebby-n-friends/nebby-n-friends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
